@@ -728,19 +728,6 @@
     "source": 1
   },
   {
-    "id": 15812,
-    "name": "Terminator",
-    "describe": "sent Terminator",
-    "diamond_count": 25,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/460405c0f2685a8f71d8098c9473f172.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 5879,
     "name": "Doughnut",
     "describe": "sent Doughnut",
@@ -1658,19 +1645,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4e21d2956bd289847ab8c006d499d25b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 15813,
-    "name": "Terminator Face",
-    "describe": "sent Terminator Face",
-    "diamond_count": 449,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/eff4d1470793af0ffabb2e29e0909087.png~tplv-obj.webp"
       ]
     },
     "type": 4,
@@ -3094,19 +3068,6 @@
     "source": 1
   },
   {
-    "id": 15814,
-    "name": "Terminator Army",
-    "describe": "sent Terminator Army",
-    "diamond_count": 22000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/27f6e1132ee89b3ed4e1e4b89bda48a8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 7400,
     "name": "Adam’s Dream",
     "describe": "sent Adam’s Dream",
@@ -3562,6 +3523,32 @@
     "source": 1
   },
   {
+    "id": 15082,
+    "name": "Community Celebration",
+    "describe": "sent Community Celebration",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15011,
+    "name": "Light Castle",
+    "describe": "sent Light Castle",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 16374,
     "name": "Adventure",
     "describe": "sent Adventure",
@@ -3572,6 +3559,45 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15080,
+    "name": "Community Crown",
+    "describe": "sent Community Crown",
+    "diamond_count": 99,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/957b298a62e13fc4bc6d463d728d6564.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 15079,
+    "name": "Community Fest",
+    "describe": "sent Community Fest",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16378,
+    "name": "Rilakkuma's summer vacation",
+    "describe": "sent Rilakkuma's summer vacation",
+    "diamond_count": 12000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3601,29 +3627,16 @@
     "source": 1
   },
   {
-    "id": 16378,
-    "name": "Rilakkuma's summer vacation",
-    "describe": "sent Rilakkuma's summer vacation",
-    "diamond_count": 12000,
+    "id": 16377,
+    "name": "Grand Prix Stage",
+    "describe": "sent Grand Prix Stage",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15079,
-    "name": "Community Fest",
-    "describe": "sent Community Fest",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -3634,6 +3647,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d0278907a72d63416317eb71ce2ed830.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16375,
+    "name": "Rilakkuma's ear",
+    "describe": "sent Rilakkuma's ear",
+    "diamond_count": 200,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9b432097d114e92f7703a22c16113fb8.png~tplv-obj.webp"
       ]
     },
     "type": 4,
@@ -3653,58 +3679,6 @@
     "source": 1
   },
   {
-    "id": 15082,
-    "name": "Community Celebration",
-    "describe": "sent Community Celebration",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15011,
-    "name": "Light Castle",
-    "describe": "sent Light Castle",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16375,
-    "name": "Rilakkuma's ear",
-    "describe": "sent Rilakkuma's ear",
-    "diamond_count": 200,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9b432097d114e92f7703a22c16113fb8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 16377,
-    "name": "Grand Prix Stage",
-    "describe": "sent Grand Prix Stage",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "sent TikTok Universe",
@@ -3715,19 +3689,6 @@
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15080,
-    "name": "Community Crown",
-    "describe": "sent Community Crown",
-    "diamond_count": 99,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/957b298a62e13fc4bc6d463d728d6564.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
     "source": 1
   },
   {
