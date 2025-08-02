@@ -3510,19 +3510,6 @@
     "source": 1
   },
   {
-    "id": 15079,
-    "name": "Community Fest",
-    "describe": "sent Community Fest",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 15012,
     "name": "King Leonardo",
     "describe": "sent King Leonardo",
@@ -3588,29 +3575,16 @@
     "source": 1
   },
   {
-    "id": 16374,
-    "name": "Adventure",
-    "describe": "sent Adventure",
-    "diamond_count": 30,
+    "id": 15079,
+    "name": "Community Fest",
+    "describe": "sent Community Fest",
+    "diamond_count": 1,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
       ]
     },
     "type": 1,
-    "source": 1
-  },
-  {
-    "id": 16378,
-    "name": "Rilakkuma's summer vacation",
-    "describe": "sent Rilakkuma's summer vacation",
-    "diamond_count": 12000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 1
   },
   {
@@ -3621,19 +3595,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15011,
-    "name": "Light Castle",
-    "describe": "sent Light Castle",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3653,6 +3614,19 @@
     "source": 1
   },
   {
+    "id": 16374,
+    "name": "Adventure",
+    "describe": "sent Adventure",
+    "diamond_count": 30,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
     "id": 15082,
     "name": "Community Celebration",
     "describe": "sent Community Celebration",
@@ -3660,6 +3634,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15011,
+    "name": "Light Castle",
+    "describe": "sent Light Castle",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3676,6 +3663,19 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16378,
+    "name": "Rilakkuma's summer vacation",
+    "describe": "sent Rilakkuma's summer vacation",
+    "diamond_count": 12000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -4940,19 +4940,6 @@
     "source": 2
   },
   {
-    "id": 8267,
-    "name": "Good Evening",
-    "describe": "sent Good Evening",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 8269,
     "name": "Good Morning",
     "describe": "sent Good Morning",
@@ -6146,6 +6133,19 @@
       ]
     },
     "type": 1,
+    "source": 2
+  },
+  {
+    "id": 8267,
+    "name": "Good Evening",
+    "describe": "sent Good Evening",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 2
   }
 ]
