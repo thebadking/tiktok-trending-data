@@ -143,19 +143,6 @@
     "source": 1
   },
   {
-    "id": 16841,
-    "name": "F1 Austin L",
-    "describe": "sent F1 Austin L",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/08cd2a62ccf0a33d63a20bbb3f2d34a4.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 8268,
     "name": "Good Night",
     "describe": "sent Good Night",
@@ -163,6 +150,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16841,
+    "name": "F1 Austin L",
+    "describe": "sent F1 Austin L",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/08cd2a62ccf0a33d63a20bbb3f2d34a4.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3965,19 +3965,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "sent TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16378,
     "name": "Rilakkuma's summer vacation",
     "describe": "sent Rilakkuma's summer vacation",
@@ -3985,6 +3972,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "sent TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4043,19 +4043,6 @@
     "source": 1
   },
   {
-    "id": 16377,
-    "name": "Grand Prix Stage",
-    "describe": "sent Grand Prix Stage",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15011,
     "name": "Light Castle",
     "describe": "sent Light Castle",
@@ -4079,6 +4066,19 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16377,
+    "name": "Grand Prix Stage",
+    "describe": "sent Grand Prix Stage",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
