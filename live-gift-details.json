@@ -221,32 +221,6 @@
     "source": 2
   },
   {
-    "id": 17827,
-    "name": "Candy Loot",
-    "describe": "sent Candy Loot",
-    "diamond_count": 449,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/942191ca3bdc5b648c725e2800a1c3d2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 2
-  },
-  {
-    "id": 17821,
-    "name": "Face-pulling",
-    "describe": "sent Face-pulling",
-    "diamond_count": 249,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fbbe8af4280240dfdb11ad1100be0282.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 2
-  },
-  {
     "id": 15232,
     "name": "You're awesome",
     "describe": "sent You're awesome",
@@ -4495,6 +4469,32 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 17827,
+    "name": "Candy Loot",
+    "describe": "sent Candy Loot",
+    "diamond_count": 449,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/942191ca3bdc5b648c725e2800a1c3d2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 2
+  },
+  {
+    "id": 17821,
+    "name": "Face-pulling",
+    "describe": "sent Face-pulling",
+    "diamond_count": 249,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fbbe8af4280240dfdb11ad1100be0282.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 2
   }
 ]
