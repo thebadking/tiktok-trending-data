@@ -91,14 +91,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "374.2M views",
+            "subTitle": "374.4M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 374200000,
+              "views": 374400000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -109,14 +109,14 @@
             "id": "7560778181813207054",
             "type": 3,
             "title": "#sportsskillstiktokcontest",
-            "subTitle": "36.1M views",
+            "subTitle": "36.2M views",
             "description": "",
             "link": "/tag/sportsskillstiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 36100000,
+              "views": 36200000,
               "challengeId": "7560778181813207054",
               "challengeName": "sportsskillstiktokcontest"
             }
@@ -164,7 +164,7 @@
           "cardItem": {
             "id": "7149057085190193198",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766289600&x-signature=cC95Ka42mVNxODpo5mXNysM0gjc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766289600&x-signature=uxgvmb0ZDrwC%2BB%2FdgRXMBQCjbus%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
             "title": "#fallfreshness",
             "subTitle": "4.4B views",
             "description": "Define your looks and drop it with #FallFreshness! 🍂 From cozy knits to city-ready layers, discover autumn’s must-haves and make you every look a inspo ✨💅",
@@ -216,7 +216,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast8",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast8",
             "title": "Forever",
             "subTitle": "3.2M videos",
             "description": "Labrinth",
@@ -332,13 +332,13 @@
             "keyToken": "",
             "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast8",
             "title": "Holly Jolly Christmas",
-            "subTitle": "106.8K videos",
+            "subTitle": "106.9K videos",
             "description": "Michael Bublé",
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
               "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
-              "posts": 106800
+              "posts": 106900
             }
           }
         },
